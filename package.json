@@ -1,0 +1,30 @@
+{
+  "name": "fxos-watchlist-server",
+  "version": "0.0.1",
+  "description": "FxOS WatchList/QueroVer Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilianoeloi/fxos-watchlist-server.git"
+  },
+  "keywords": [
+    "fxos",
+    "watchlist",
+    "querover"
+  ],
+  "author": "Emiliano E. S. Barbosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianoeloi/fxos-watchlist-server/issues"
+  },
+  "homepage": "https://github.com/emilianoeloi/fxos-watchlist-server",
+  "devDependencies": {
+    "body-parser": "^1.14.0",
+    "deamon": "^1.0.0",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
